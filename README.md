@@ -1,6 +1,7 @@
 # Anand Sathesh
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20Sathesh-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-sathesh-00a58129a) 
 [![Email](https://img.shields.io/badge/Email-anandsathesh22@gmail.com-red)](mailto:anandsathesh22@gmail.com)  
+[Location](https://img.shields.io/badge/Location-Chennai%2C%20Tamil%20Nadu-ff69b4?logo=google-maps&logoColor=white)  
 
 ---
 
