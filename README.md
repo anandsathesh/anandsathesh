@@ -1,16 +1,92 @@
-## Hi there 👋
+# Anand Sathesh
 
-<!--
-**anandsathesh/anandsathesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![GitHub](https://img.shields.io/badge/GitHub-@anandsathesh-181717?logo=github&logoColor=white)](https://github.com/anandsathesh)  
+[![Email](https://img.shields.io/badge/Email-anandsathesh22@gmail.com-red)](mailto:anandsathesh22@gmail.com)  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🎯 About Me
+
+I’m an Electronics & Communication Engineering undergraduate passionate about building real-world systems in **Robotics, Embedded Systems, and AI/ML**.  
+Over time, I’ve translated academic learning into functioning projects—ranging from drones and robots to brain-computer interface systems.
+
+This repository is a hub of my technical work: **code, documentation, demos, experiments**, and more.  
+
+---
+
+## 🔍 Key Projects
+
+Here are a few standout repositories/projects you should check out. (Click the project name to view code.)
+
+| Project | Description | Technologies Used |
+|---|---|---|
+| **Drone Payload Delivery System** | A drone platform capable of autonomous navigation and payload drop with obstacle avoidance | PX4, ROS2, Python, Sensor Fusion |
+| **Fire-Fighting Robot** | Autonomous robot that detects flame sources and deploys extinguishing mechanism | Arduino, IR/Thermal sensors, Actuators |
+| **Plant Disease Detection** | Screen leaf images to detect disease patterns using computer vision | OpenCV, TensorFlow, Python |
+| **BCI-Controlled Car** | Control a small car using EEG signals via ML models | EEG, Scikit-learn, Signal Processing |
+| **Production Monitoring System** | A prototype for monitoring industrial machine metrics and health | IoT, MQTT, Data Logging, Cloud |
+
+> 📌 These are just highlights. There are more in my GitHub which show my versatility across embedded, vision, robotics, and AI domains.
+
+---
+
+## 🛠 Technical Skills
+
+- **Languages**: C, C++, Python, SQL  
+- **Robotics & Embedded**: ROS2, PX4, Arduino, ESP32, Raspberry Pi,Drone Building
+- 🔹Web Development  
+- **Frontend**: HTML, CSS, JavaScript, React  
+- **Backend & Database**: Node.js, MongoDB  
+- **AI / Vision / ML**: OpenCV, TensorFlow, Scikit-learn, YOLO  
+- **IoT & Cloud**: MQTT, Blynk, ThingSpeak, basic REST APIs  
+- **Tools / Workflow**: Git, GitHub Actions, Docker (basic), Linux ,Canva ,Figma 
+
+---
+
+## 📂 Repository Structure & How to Navigate
+
+1. **`Projects/`**  
+   Each project folder is self-contained: code, readme, wiring diagrams, and demo files (if applicable).
+
+2. **`Docs/`**  
+   Supporting documentation, papers, whitepapers, reports, etc.
+
+3. **`Demos/`**  
+   Videos, animations, screenshots of project outputs.
+
+4. **`Scripts/`**  
+   Utility scripts, data preprocessing, helpers.
+
+5. **`README.md` (this file)**  
+   Your entry point to see who I am, what I build, and what I can bring.
+
+---
+
+## 📈 Why Me / What I Bring
+
+- **Hands-on thinker**: I focus on delivering working systems/products, not just theory.  
+- **Full-stack embedded → AI pipeline**: From sensors to ML models, I cover the stack.  
+- **Rapid prototyping & iteration**: I structure code to be modular, testable, and maintainable.  
+- **Learning mindset**: I constantly pick up new tools/libraries (e.g. ROS2, newer ML architectures) to stay current.
+
+---
+
+## 📎 Links & Contact
+
+- [My GitHub Profile](https://github.com/anandsathesh)  
+- **Email**: anandsathesh22@gmail.com  
+
+---
+
+## 🚀 How to Use This Repo / Collaboration
+
+- Fork and clone any of the projects  
+- Each project has its own README and instructions for setup  
+- Demos or sample data (if included) will be in corresponding `Demos/` folders  
+- Feel free to open issues, suggest enhancements, or ask questions  
+
+---
+
+> “Code is a story; each commit, each module—together they reflect intent and craft.”  
+
+
