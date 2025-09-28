@@ -1,6 +1,5 @@
 # Anand Sathesh
-
-[![GitHub](https://img.shields.io/badge/GitHub-@anandsathesh-181717?logo=github&logoColor=white)](https://github.com/anandsathesh)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anand%20Sathesh-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anand-sathesh-00a58129a) 
 [![Email](https://img.shields.io/badge/Email-anandsathesh22@gmail.com-red)](mailto:anandsathesh22@gmail.com)  
 
 ---
@@ -33,8 +32,7 @@ Here are a few standout repositories/projects you should check out. (Click the p
 ## 🛠 Technical Skills
 
 - **Languages**: C, C++, Python, SQL  
-- **Robotics & Embedded**: ROS2, PX4, Arduino, ESP32, Raspberry Pi,Drone Building
-- 🔹Web Development  
+- **Robotics & Embedded**: ROS2, PX4, Arduino, ESP32, Raspberry Pi,Drone Building 
 - **Frontend**: HTML, CSS, JavaScript, React  
 - **Backend & Database**: Node.js, MongoDB  
 - **AI / Vision / ML**: OpenCV, TensorFlow, Scikit-learn, YOLO  
@@ -43,24 +41,6 @@ Here are a few standout repositories/projects you should check out. (Click the p
 
 ---
 
-## 📂 Repository Structure & How to Navigate
-
-1. **`Projects/`**  
-   Each project folder is self-contained: code, readme, wiring diagrams, and demo files (if applicable).
-
-2. **`Docs/`**  
-   Supporting documentation, papers, whitepapers, reports, etc.
-
-3. **`Demos/`**  
-   Videos, animations, screenshots of project outputs.
-
-4. **`Scripts/`**  
-   Utility scripts, data preprocessing, helpers.
-
-5. **`README.md` (this file)**  
-   Your entry point to see who I am, what I build, and what I can bring.
-
----
 
 ## 📈 Why Me / What I Bring
 
@@ -73,7 +53,7 @@ Here are a few standout repositories/projects you should check out. (Click the p
 
 ## 📎 Links & Contact
 
-- [My GitHub Profile](https://github.com/anandsathesh)  
+- [My Linkedin Profile](https://www.linkedin.com/in/anand-sathesh-00a58129a)  
 - **Email**: anandsathesh22@gmail.com  
 
 ---
